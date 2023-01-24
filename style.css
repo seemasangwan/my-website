@@ -1,0 +1,174 @@
+ body{
+    margin:0px;
+    text-align: center;
+    font-family:sans-serif
+    color: #40514E;
+ }
+ .header
+ {
+    background-color: #D4F3EF;
+ }
+.top
+{   
+    background-color:#deeef1;
+    margin-top: 0px;
+    padding: 20px;
+    text-align: center;
+    position: relative;
+    margin-bottom: 0;
+    
+   
+}
+h1
+{
+   color:#0a3434;
+   line-height: .5;
+   font-family: kalam;
+}
+h2
+{
+   color:hsl(180, 67%, 17%);
+   font-weight: normal;
+   font-size: 40px;
+   line-height: .5;
+   font-weight: 100;
+   font-family: sans-serif;
+   padding-bottom: 10px;
+ 
+}
+h3,a{
+   color: #11999E;
+   line-height: 1;
+   
+
+}
+
+.middle
+{
+   
+   margin-top:0;
+   background-color: #e0edeb;
+}
+.bottom
+{  
+  background-color: #079398;
+}
+h1
+{
+   font-size: 5em;
+margin-top: 100px;
+}
+.top-cloud
+{
+   height:150px;
+   width:200px;
+   position:absolute;
+   top:50px;
+   right:200px;
+
+  
+}
+.bottom-cloud
+{
+   height:150px;
+   width:200px;
+   position:absolute;
+   top:100px;
+   left:90px;
+}
+.mountain
+{
+   height:200px;
+   width:100%;
+   margin-left: 0;
+   margin-right: 0;
+   
+}
+.skill
+{   margin:10px auto 10px auto;
+   width:50%;
+   text-align: left;
+   font-family: sans-serif;
+}
+.profile img
+{
+   height:200px;
+   width:200px;
+   border-radius: 50%;
+   
+
+}
+
+.pl
+{
+   width:45%;
+   border-radius: 50%;
+   float: left;
+   margin-right:30px;
+}
+.s
+{
+   width:30%;
+   border-radius: 50%;
+
+   
+}
+.skill li
+{
+   list-style: none;
+}
+
+.ss{
+   float: left;
+   margin-right: 100px;
+}
+.abt
+{
+   width: 20%;
+   margin:auto;
+   font-weight: 200px;
+   color: #40514E;
+   line-height: 2;
+   font-family:serif;
+   
+}
+hr{
+border:dotted rgb(192, 195, 194) 6px;
+width:5%;
+border-bottom: 0;
+margin-top: 100px;
+margin-bottom: 100px;
+}
+li
+{
+   line-height: 2;
+}
+.pohe
+{
+   width:20%;
+   margin:auto;
+   line-height: 2;
+}
+.btn button
+{
+   background-color: #278b7983;
+   margin-top:20px;
+   margin-bottom:100px;
+}
+a
+{
+ color:#c3f0ee;
+ margin-top:30;
+ font-size:large;
+ margin:20px;
+ padding-top: 40px;
+ font-family:sans-serif;
+ text-decoration: none;
+}
+.bottom p
+{
+ margin:20px;
+ font-size:large;
+ font-family:serif;
+ color:white;
+}
